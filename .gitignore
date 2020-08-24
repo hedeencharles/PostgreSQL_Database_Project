@@ -133,3 +133,4 @@ dmypy.json
 
 # Block access to file containing pg pass
 bonus_file.ipynb 
+bonus_file-checkpoint.ipynb 
