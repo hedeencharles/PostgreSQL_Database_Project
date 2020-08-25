@@ -64,22 +64,22 @@ CREATE TABLE IF NOT EXISTS dept_managers
 ----------
 -- Test Queries
 
-SELECT employees.first_name, employees.last_name, salaries.salary
-FROM employees 
-JOIN salaries
-	ON employees.employee_no = salaries.salary
+-- SELECT employees.first_name, employees.last_name, salaries.salary
+-- FROM employees 
+-- JOIN salaries
+-- 	ON employees.employee_no = salaries.salary
 
-SELECT employees.first_name, employees.last_name, titles.title
-FROM employees 
-Join titles
-	ON employees.emp_title_id = titles.title_id
+-- SELECT employees.first_name, employees.last_name, titles.title
+-- FROM employees 
+-- Join titles
+-- 	ON employees.emp_title_id = titles.title_id
 	
-SELECT employees.first_name, employees.last_name, departments.dept_name
-FROM employees
-JOIN department_employees
-	ON employees.employee_no = department_employees.emp_num
-JOIN departments
-	ON department_employees.dept_num = departments.department_no
+-- SELECT employees.first_name, employees.last_name, departments.dept_name
+-- FROM employees
+-- JOIN department_employees
+-- 	ON employees.employee_no = department_employees.emp_num
+-- JOIN departments
+-- 	ON department_employees.dept_num = departments.department_no
 
 
 
