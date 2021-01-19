@@ -31,6 +31,8 @@
 [link to Python query file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/Python_Notebook%26Queries/.ipynb_checkpoints/bonus_file-checkpoint.ipynb)
 * For visualizations and analysis, the database was loaded into Python using SqlAlchemy and queried from a Python Notebook.
 * Once the proper data was queried, Matplotlib was used to create graphs of depicting:
-  * How salaries are distributed among total number of employees. ![Salary Distribution](Python_Notebook&Queries/Visualizations/salary_ranges.png)
+  * How salaries are distributed among total number of employees. 
+  * ![Salary Distribution](Python_Notebook&Queries/Visualizations/salary_ranges.png)
 
-  * How salaries vary by job title. ![Salary Distribution](Python_Notebook&Queries/Visualizations/salary_titles.png)
+  * How salaries vary by job title. 
+  * ![Salary Distribution](Python_Notebook&Queries/Visualizations/salary_titles.png)
