@@ -17,7 +17,7 @@ AND hire_date <= '1986/12/31';
 	
 -- 3) List managers
 
-SELECT dept_managers.dept_no, departments.dept_name,dept_managers.emp_no, departments.dept_name, employees.last_name, employees.first_name
+SELECT dept_managers.dept_no, departments.dept_name,dept_managers.emp_no, employees.last_name, employees.first_name
 FROM dept_managers
 JOIN departments
 	ON dept_managers.dept_no = departments.department_no

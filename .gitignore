@@ -1,3 +1,2 @@
-# Ignore Bonus files
-bonus_file.ipynb
-bonus_file-checkpoint.ipynb
+# Ignore Jupyter Notebooks that contain passwords
+bonus_file.ipynb 
