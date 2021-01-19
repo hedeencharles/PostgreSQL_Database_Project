@@ -15,7 +15,12 @@
 * Data interested in querying:
   * Employee Details - first, last, number, sex, and salary
   * 1986 Employees Hired Details 
-  * List of Department Managers and Details - 
+  * List of Department Managers and Details 
+  * Departments of each employee
+  * Query only last names beginning with "B"
+  * All employees in the Sales Department
+  * All employees in the Sales and Development Departments
+  * List the frequency of each employer name, determine if the data sources are corrupt. 
 
 ## **ERD Diagram** :
 ![Drag Racing](ERD_Diagram.png)
