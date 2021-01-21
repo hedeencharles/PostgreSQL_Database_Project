@@ -8,7 +8,7 @@
 
 
 ## **Database Development** :
-[link to schema file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/SQL_Files%26Queries/schema.sql)
+[LINK for schema file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/SQL_Files%26Queries/schema.sql)
 ### ERD Diagram :
 ![ERD Diagram](ERD_Diagram.png)
 
