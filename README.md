@@ -16,7 +16,7 @@
   * The SQL database consist of multiple Foreign Keys, Primary Keys and designating ID columns. 
 
 ## **Queries using pgAdmin (PostgreSQL)** :
-[link to SQL query file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/SQL_Files%26Queries/query.sql)
+[LINK for SQL query file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/SQL_Files%26Queries/query.sql)
 * Data interested in querying:
   * Employee Details - first, last, number, sex, and salary
   * 1986 Employees Hired Details 
@@ -28,7 +28,7 @@
   * List the frequency of each employer name, determine if the data sources are corrupt. 
 
 ## **Queries using Python and SqlAlchemy** :
-[link to Python query file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/Python_Notebook%26Queries/.ipynb_checkpoints/bonus_file-checkpoint.ipynb)
+[LINK for Python query file](https://github.com/hedeencharles/PostgreSQL_Database_Project/blob/master/Python_Notebook%26Queries/.ipynb_checkpoints/bonus_file-checkpoint.ipynb)
 * For visualizations and analysis, the database was loaded into Python using SqlAlchemy and queried from a Python Notebook.
 * Once the proper data was queried, Matplotlib was used to create graphs of depicting:
   * How salaries are distributed among total number of employees. 
